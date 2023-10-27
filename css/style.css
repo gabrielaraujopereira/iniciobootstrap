@@ -21,11 +21,6 @@ h2{
 p{
     color:white;
 }
-
-.card-text{
-    color: black;
-}
-
-button.accordion-button::after{
-    color: black;
+.card{
+    filter: grayscale(100%);
 }
